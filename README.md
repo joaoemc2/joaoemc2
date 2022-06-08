@@ -1,10 +1,10 @@
 ### Olá eu sou o João! 👋
 
-- 🔭 Atualmente estou procurando estagio em front-end ou UX/UI.
-- 🌱 Estou aprendendo Bootstrap, Java, e logo React.
-- 👯 Estou procurando colaborar em qualquer projeto que me entusiasme.
-- ⚡ Intusiasta em Astrofísica e Cosmologia.
-- 🎂 The Cake is a Lie.
+- :pushpin: Atualmente estou procurando estagio em front-end ou UX/UI.
+- :computer: Estou aprendendo Bootstrap, Java e JavaScript.
+- :telescope: Intusiasta em Astrofísica e Cosmologia.
+- :guitar: Guitarrista nas horas vagas.
+- :cake: The Cake is a Lie.
 
 <div align="center">
   <a href="https://github.com/joaoemc2">
