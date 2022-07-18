@@ -1,7 +1,6 @@
 ### Olá eu sou o João! 👋
 
-- :pushpin: Atualmente estou procurando estagio em front-end ou UX/UI.
-- :computer: Estou aprendendo HTML, CSS, JavaScript e Bootstrap.
+- :pushpin: Desenvolvedor Frond-end.
 - :telescope: Intusiasta em Astrofísica e Cosmologia.
 - :guitar: Guitarrista nas horas vagas.
 - :cake: The Cake is a Lie.
