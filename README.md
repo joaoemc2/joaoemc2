@@ -1,4 +1,4 @@
-### Olá eu sou o João! 👋
+### Olá, sou o João! 👋
 
 - :pushpin: Desenvolvedor Frond-end.
 - :telescope: Intusiasta em Astrofísica e Cosmologia.
