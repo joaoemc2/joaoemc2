@@ -1,9 +1,10 @@
 ### Olá, sou o João! 👋
 
-- :pushpin: Desenvolvedor Frond-end.
+- :star2: Analista Junior at Ânima
 - :telescope: Intusiasta em Astrofísica e Cosmologia.
 - :guitar: Guitarrista nas horas vagas.
 - :cake: The Cake is a Lie.
+- 
 
 <div align="center">
   <a href="https://github.com/joaoemc2">
