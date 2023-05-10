@@ -1,6 +1,6 @@
 ### Olá, sou o João! 👋
 
-- :computer: Analista Junior at Ânima.
+- :computer: Desenvolvedor de Sistemas at Ânima.
 - :telescope: Intusiasta em Astrofísica e Cosmologia.
 - :guitar: Guitarrista nas horas vagas.
 - :cake: The Cake is a Lie.
