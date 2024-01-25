@@ -1,9 +1,27 @@
 ### Olá, sou o João! 👋
 
-- :computer: Desenvolvedor de Sistemas at Ânima.
-- :telescope: Intusiasta em Astrofísica e Cosmologia.
-- :guitar: Guitarrista nas horas vagas.
-- :cake: The Cake is a Lie.
+# Sobre Mim
+
+Olá! 👋 Sou o João Vitor, um desenvolvedor front-end e estudante em User Experience. Atuo principalmente com Vue.js, onde transformo conceitos criativos em código sólido, interativo e acessivel.
+
+## Experiência Profissional
+
+🖥️ **Desenvolvedor de Sistemas** | [Ânima Educação]  
+   - Trabalhando com Vue.js para desenvolvimento de interfaces modernas e responsivas.
+   - Comprometido com a qualidade do código, performance e boas práticas de desenvolvimento.
+
+## Expertise
+
+⚙️ **Tecnologias e Ferramentas**
+   - Vue.js, HTML, CSS, JavaScript, TypeScript.
+   - Acessibilidade e responsividade web são prioridades em meus projetos.
+
+## Projetos Pessoais
+
+🚀 **[Space Safari]**
+   - Estou desenvolvendo em conjunto um website/app em Vue.js com o objetivo de ensinar ciencia a crianças de forma interativa.
+   - [Space Safari](https://github.com/joaoemc2/TEAM-PROJECT--space-safari)
+
 
 <div align="center">
   <a href="https://github.com/joaoemc2">
