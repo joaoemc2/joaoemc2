@@ -1,16 +1,13 @@
-### Olá, sou o João! 👋
 
-# Sobre Mim
+### Olá! 👋 Sou o João Vitor, um desenvolvedor front-end e estudante em User Experience. Atuo principalmente com Vue.js, onde transformo conceitos criativos em código sólido, interativo e acessivel.
 
-Olá! 👋 Sou o João Vitor, um desenvolvedor front-end e estudante em User Experience. Atuo principalmente com Vue.js, onde transformo conceitos criativos em código sólido, interativo e acessivel.
-
-## Experiência Profissional
+### Experiência Profissional
 
 🖥️ **Desenvolvedor de Sistemas** | [Ânima Educação]  
    - Trabalhando com Vue.js para desenvolvimento de interfaces modernas e responsivas.
    - Comprometido com a qualidade do código, performance e boas práticas de desenvolvimento.
 
-## Expertise
+### Expertise
 
 ⚙️ **Tecnologias e Ferramentas**
    - Vue.js, HTML, CSS, JavaScript, TypeScript.
@@ -22,7 +19,7 @@ Olá! 👋 Sou o João Vitor, um desenvolvedor front-end e estudante em User Exp
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoemc2&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
-###
+####
 
 <!-- <div >
   <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
