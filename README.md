@@ -16,13 +16,6 @@ Olá! 👋 Sou o João Vitor, um desenvolvedor front-end e estudante em User Exp
    - Vue.js, HTML, CSS, JavaScript, TypeScript.
    - Acessibilidade e responsividade web são prioridades em meus projetos.
 
-## Projetos Pessoais
-
-🚀 **[Space Safari]**
-   - Estou desenvolvendo em conjunto um website/app em Vue.js com o objetivo de ensinar ciencia a crianças de forma interativa.
-   - [Space Safari](https://github.com/joaoemc2/TEAM-PROJECT--space-safari)
-
-
 <div align="center">
   <a href="https://github.com/joaoemc2">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoemc2&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
